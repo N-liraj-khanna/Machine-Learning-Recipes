@@ -1,9 +1,9 @@
-# Machine Learning Templates
+# Machine Learning Recipes
 > **From Data Preprocessing to Advanced Machine Learning Model's templates with clean Implementation using Python, Jupyter Notebook.**
 
 ![ml](https://user-images.githubusercontent.com/68724228/88449282-3d139880-ce63-11ea-887a-45f9bd225dfa.gif)
 
-### In this repo, I've put several machine learning models that are most widely used as Templates for Quick Reference, implementation using Python as .ipnyb files (Jupyter Notebook). 
+### In this repo, I've put several machine learning models that are most widely used as Recipes/Templates for Quick Reference, implementation using Python as .ipnyb files (Jupyter Notebook). 
 
 *Sometimes we don't notice that ML models use several times the same approach, that can change depending on the data that we have available and the model we want to apply.*
 
