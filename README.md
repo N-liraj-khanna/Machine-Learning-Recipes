@@ -20,5 +20,4 @@ In this repo you can find the most known/important ML models and it's implementa
 *  *09 - Dimensionality Reduction*
 *  *10 - Model Selection & Boosting*
 
-
 All the models are committed as individual folders. The code is always commented and you can also find some sample to test out each approach.
